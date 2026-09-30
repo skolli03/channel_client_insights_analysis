@@ -57,6 +57,14 @@ Built in Tableau Public, the dashboard includes:
 
 A company filter lets viewers isolate any single bank or compare all three at once.
 
+## Key Findings
+
+- **Channel usage:** Web was the dominant complaint channel across all three banks, accounting for 89% of submissions.
+- **Top issues:** Managing an account was the most common issue across all three banks.
+- **Response timeliness:** Web had the highest timely response rate at 99.77%, while referral had the lowest timely response rate at 99.56%.
+- **Trend over time:** Complaint volume rose from February to March across the three banks
+- **Geographic patterns:** California had the highest complaint volume, consistent with population/customer base size.
+
 ## A Note on Using a Competitor Comparison
 
 Complaint volume alone doesn't indicate service quality; it is affected by company size, customer base, and reporting behavior. This dashboard is framed as an industry benchmarking exercise, not a scorecard, and should be read with that context in mind.
